@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="899ddfe9-a843-4c43-808e-062de944a4c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matplotlib.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petal_length.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/py_plotsgraphic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_plotsgraphic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_faithful.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/matplotlib.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629729681707</updated>
       <workItem from="1629729682765" duration="1613000" />
-      <workItem from="1629781225885" duration="14695000" />
+      <workItem from="1629781225885" duration="15039000" />
+      <workItem from="1630047050371" duration="2208000" />
     </task>
     <servers />
   </component>
